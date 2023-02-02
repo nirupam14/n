@@ -11,9 +11,9 @@
 
 - 🌐 All of my projects are available at [**Portfolio**](https://nirupamsarkar172.wixsite.com/nirupam-sarkar)
 
-- 💬 Ask me about **Computer Networks, Database Management System, Unit Testing**
+- 💬 Ask me about **Computer Networks, Database Management System**
 
-- 📫  My Email ID **nirupam.sarkar.uemk.cs.2023@gmail.com**
+- 📫  My Email ID **nirupam0502@gmail.com**
 
 - 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/14jJ-9hxw4CDAkKer8wsd49Us-Hg-N8P-/view?usp=sharing)
 
