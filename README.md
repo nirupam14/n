@@ -9,7 +9,7 @@
 
 - 🏄‍ I’m currently learning **NodeJs**
 
-- 🌐 All of my projects are available at [**Portfolio**](https://nirupamsarkar172.wixsite.com/nirupam-sarkar)
+- 🌐 All of my projects are available at [**Portfolio**](https://nirupam14.github.io/Portfolio/)
 
 - 💬 Ask me about **Computer Networks, Database Management System**
 
